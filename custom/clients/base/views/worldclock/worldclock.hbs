@@ -1,0 +1,9 @@
+<div class="container-fluid">
+{{#each this.results}}
+	{{{this.tag1}}}
+	<div class="{{{this.classdiv}}}">
+		<canvas id="canvas{{{this.no}}}" width="{{{this.clocksize}}}" height="{{{this.clocksize}}}" style="background-color:#333"></canvas><br/>
+		{{{this.text}}}
+	</div>
+{{/each}}
+</div>
