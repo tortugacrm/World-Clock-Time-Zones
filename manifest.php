@@ -38,9 +38,9 @@ $manifest = array (
   'icon' => '',
   'is_uninstallable' => true,
   'name' => 'World Clock Time Zones',
-  'published_date' => '2015-05-21 06:00:00',
+  'published_date' => '2015-05-26 06:00:00',
   'type' => 'module',
-  'version' => '1.0.0.1',
+  'version' => '1.0.0.2',
   'remove_tables' => 'prompt',
 );
 

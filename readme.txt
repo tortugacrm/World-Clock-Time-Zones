@@ -35,3 +35,10 @@ http://www.proglogic.com/code/javascript/time/worldclock.php
 http://www.w3schools.com/canvas/canvas_clock_start.asp
 
 
+4) CHANGE HISTORY
+
+- V1.0.0.2 2015/05/26
+Fix a small issue when drawing the clock.
+
+- V1.0.0.1 2015/05/21
+First version.
